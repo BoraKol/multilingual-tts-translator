@@ -1,0 +1,5 @@
+{
+  "name": "Multilingual TTS Translator",
+  "description": "A two-step application that translates user-provided text into a target language and then generates the audio of the translated text using Text-to-Speech (TTS).",
+  "requestFramePermissions": []
+}
